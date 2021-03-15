@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Setting>
+  <IsHaveMusicBg>1</IsHaveMusicBg>
+  <IsHaveSound>1</IsHaveSound>
+  <VolumnMusicBg>35</VolumnMusicBg>
+  <VolumnSound>80</VolumnSound>
+</Setting>
